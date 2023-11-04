@@ -1,0 +1,45 @@
+.login-form {
+  width: 200px;
+  margin: 0 auto;
+  padding: 60px;
+  border: 10px solid #ccc;
+  text-align: center;
+}
+.login-form .caligraphy {
+  font-family: 'Your Caligraphy Font', cursive; 
+  font-size: 36px; 
+  border: 15px solid #16dec7; 
+  border-radius: 10px; 
+  padding: 10px;
+  color: red;
+}
+
+  
+  
+  .login-form input {
+    width: 100%;
+    padding: 10px;
+    margin:  0 auto;
+    border: 5px solid #ccc; 
+    border-radius: 5px; 
+  }
+  
+  .login-form input:focus {
+    outline: none; 
+    border-color: #007bff;
+  }
+  
+  .login-form button {
+    background-color: #007bff; 
+    color: white; 
+    border: none;
+    border-radius: 5px; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    cursor: pointer;
+  }
+  
+  .login-form button:hover {
+    background-color: #3c5a7b; 
+  }
+  
